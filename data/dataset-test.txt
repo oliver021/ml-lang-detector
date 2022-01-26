@@ -1,0 +1,463 @@
+Tom osservò di sbieco.	7
+אני יכולה לשבת פה?	8
+Tom bewahrte die Ruhe.	9
+Have a nice day.	0
+Je vous souhaite le bonjour !	1
+她从伦敦去了巴黎。	2
+Это моя вина.	3
+Skończmy tę dyskusję.	4
+Eu corro todo dia.	5
+あの山を見てごらん。	6
+Tom è sopravvissuto.	7
+אני רשאי להשתמש בזה?	8
+Tom blieb cool.	9
+Have a nice day.	0
+Passe une bonne journée !	1
+她出去買些食物了。	2
+Это моя лошадь.	3
+Zakończmy tę debatę.	4
+Eu disse: afaste-se!	5
+楽にしてね。	6
+Tom sopravvisse.	7
+הכוח צודק.	8
+Tom blieb hier.	9
+Have pity on us!	0
+Ayez pitié de nous !	1
+她独自一人去了墨西哥。	2
+Это мои деньги.	3
+Chodźmy stąd.	4
+Eu disse para você se afastar!	5
+くつろいでいて下さい。	6
+Tom è scomparso.	7
+שים לב למדרגה.	8
+Tom blieb zu Hause.	9
+He acts quickly.	0
+Il agit rapidement.	1
+她是坐火車去上海的。	2
+Не холодно.	3
+Chodźmy na plażę.	4
+Eu disse: afastem-se!	5
+おくつろぎ下さい。	6
+Tom scomparve.	7
+ממון הוא כוח.	8
+Tom blieb bis spät.	9
+He began to cry.	0
+Il s'est mis à pleurer.	1
+她去了高須診所。	2
+Это нелегко.	3
+Po prostu chodźmy do niego.	4
+Eu disse para vocês se afastarem!	5
+結婚は運次第。	6
+Tom lo vuole.	7
+כסף הוא כוח.	8
+Tom blieb über Nacht.	9
+He began to cry.	0
+Il se mit à pleurer.	1
+她搭計程車到博物館。	2
+Это нечестно.	3
+Po prostu się z nim spotkajmy.	4
+Eu disse: abaixe-se!	5
+メアリーは男性恐怖症だ。	6
+Tom la vuole.	7
+צריך יותר.	8
+Tom stand alleine.	9
+He began to run.	0
+Il a commencé à courir.	1
+她跟他去公園了。	2
+Это не подделка.	3
+Spotkajmy się wkrótce ponownie.	4
+Eu disse para você se abaixar!	5
+自動車を借りてもいいですか。	6
+Tom vuole me.	7
+התקדמו כעת.	8
+Tom stand unbeweglich.	9
+He began to run.	0
+Il commença à courir.	1
+她今天晚上將在這裡。	2
+Это не бесплатно.	3
+Nie rozmawiajmy z nią.	4
+Eu disse para vocês se abaixarem!	5
+あなたの車を借りてもいいですか。	6
+Tom era pelato.	7
+אחי עשה זאת.	8
+Tom stand dort.	9
+He betrayed you.	0
+Il vous trahissait.	1
+她会是他的好妻子。	2
+Это не золото.	3
+Pograjmy w siatkówkę.	4
+Eu disse: abaixem-se!	5
+車をお借りできますか。	6
+Tom era impegnato.	7
+אבי עסוק.	8
+Tom sang ein Lied.	9
+He betrayed you.	0
+Il vous a trahie.	1
+她在5年里写了5本小说。	2
+Это нехорошо.	3
+Usiądźmy z tyłu.	4
+Eu vi o Tom ficar vermelho.	5
+ペン借りていい？	6
+Tom era occupato.	7
+המכתבה שלי ישנה.	8
+Tom hat sich ergeben.	9
+He betrayed you.	0
+Il t'a trahi.	1
+她是個女孩，但她勇敢。	2
+Это не здесь.	3
+Mówmy po francusku.	4
+Eu vi o Tom fazer isso.	5
+ペンを貸してもらえますか。	6
+Tom era freddo.	7
+שערי רטוב.	8
+Tom ergab sich?	9
+He betrayed you.	0
+Il t'a trahie.	1
+她是個中年胖女人。	2
+Это не моё.	3
+Zaczynajmy imprezę.	4
+Eu vi Tom pelado.	5
+それをすぐにしてもいいですか。	6
+Tom era rilassato.	7
+מגרד לי ביד.	8
+Tom hatte Mitleid.	9
+He betrayed you.	0
+Il vous a trahi.	1
+她喜欢拍照片。	2
+Это не моя.	3
+Pojedźmy metrem.	4
+Eu vi Tom na tevê.	5
+道路地図を下さい。	6
+Tom era tranquillo.	7
+יש לי כאב פרקים.	8
+Tom redet viel.	9
+He bought a car.	0
+Il acheta une voiture.	1
+她既没钱，也不出名。	2
+Это не мой.	3
+Jaki ojciec, taki syn.	4
+Vi Tom sorrir.	5
+窓を開けてもいいですか。	6
+Tom era calmo.	7
+התכנית שלי עבדה.	8
+Tom redet lustig.	9
+He bought a hat.	0
+Il a acheté un chapeau.	1
+她真的很聪明，不是吗？	2
+Это не безопасно.	3
+Słuchaj swojego ojca.	4
+Eu vi o Tom ali.	5
+隣に座っても良いですか。	6
+Tom era carino.	7
+השן כואבת לי.	8
+Tom redet taff.	9
+He came running.	0
+Il vint en courant.	1
+你不該還在床上嗎？	2
+Сейчас полтретьего.	3
+Spójrz na tą wiewiórkę.	4
+Vi o Tom lá.	5
+テレビ消してもいい？	6
+Tom era morto.	7
+כואבת לי השן.	8
+Tom ärgerte Mary.	9
+He came running.	0
+Il est venu en courant.	1
+請給我看看便宜一點的。	2
+Это устарело.	3
+Zajrzyj na następną stronę.	4
+Eu o vi primeiro.	5
+トイレをお借りしていい？	6
+Tom era veloce.	7
+אל תשימי לב לתום.	8
+Tom schrieb Maria an.	9
+He can run fast.	0
+Il est capable de courir vite.	1
+请给我看看您的护照。	2
+Занято.	3
+Czuj się jak u siebie w domu.	4
+Eu vi isso acontecer.	5
+ちょっとトイレをお借りしてもよろしいですか。	6
+Tom stava bene.	7
+אל תגיד את זה אף פעם.	8
+Tom hat Fotos gemacht.	9
+He can't be ill.	0
+Il ne se peut pas qu'il soit malade.	1
+有些人相信鬼。	2
+Это официально.	3
+Czy mogę spytać, kim jesteś?	4
+Vi isso acontecer.	5
+もしかして直せるかも。	6
+Tom era andato.	7
+איש לא הונה.	8
+Tom dressiert Hunde.	9
+He did his best.	0
+Il a fait de son mieux.	1
+有人抓住了我的手臂。	2
+Это необязательно.	3
+Czy mogę cię prosić o przysługę?	4
+Eu vi um hoje.	5
+お名前を伺ってもよろしいでしょうか？	6
+Tom era bravo.	7
+איש לא נמלט.	8
+Tom versuchte es erneut.	9
+He did it again.	0
+Il l'a fait à nouveau.	1
+有人正在彈鋼琴。	2
+Это наш долг.	3
+Czy mogę pożyczyć twój samochód?	4
+Eu vi uma hoje.	5
+母は父より年上です。	6
+Tom era buono.	7
+אף אחד לא ידע זאת.	8
+Tom vertraute ihr.	9
+He did it again.	0
+Il l'a fait de nouveau.	1
+有人把我鎖在這房間裡。	2
+Это наша обязанность.	3
+Można to zrobić zaraz?	4
+Eu vi algo.	5
+車を動かしてください。	6
+Tom era qui.	7
+אף אחד לא ידע על כך.	8
+Tom vertraute ihm.	9
+He did it again.	0
+Il a recommencé.	1
+這裡有些事真怪。	2
+Это немодно.	3
+Czy mogę zjeść tą pomarańczę?	4
+Eu também vi isso.	5
+自転車を盗まれました。	6
+Tom era a casa.	7
+איש לא צחק.	8
+Tom hat dir vertraut.	9
+He does it fast.	0
+Il le fait rapidement.	1
+有时候我帮不了自己。	2
+Это устарело.	3
+Mogę zostawić wiadomość?	4
+Eu vi a luta.	5
+自転車が盗まれました。	6
+Tom è stato ferito.	7
+איש לא שם לב.	8
+Tom vertraut Maria.	9
+He drank a beer.	0
+Il but une bière.	1
+抱歉，我没钱。	2
+Это прошлый век.	3
+Czy mogę usiąść obok ciebie?	4
+Eu vi a briga.	5
+父は医者です。	6
+Tom fu ferito.	7
+איש לא צעק.	8
+Tom wandte sich ab.	9
+He drank a beer.	0
+Il a bu une bière.	1
+說英語很難。	2
+Теперь всё кончено.	3
+Czy mogę użyć tego ołówka?	4
+Vi a briga.	5
+父は今忙しい。	6
+Tom era ferito.	7
+איש לא אמר לנו.	8
+Tom drehte sich um.	9
+He drinks a lot.	0
+Il boit beaucoup.	1
+留下来和我们一起喝酒吧。	2
+Теперь всё закончилось.	3
+Czy mogę użyć twojego ołówka?	4
+Eu vi o filme.	5
+私の父はピザが大好きだ。	6
+Tom era gentile.	7
+אף אחד לא צחק.	8
+Tom erblasste.	9
+He gave up hope.	0
+Il abandonna tout espoir.	1
+把郵票貼在信封上。	2
+Это патетично.	3
+Może Tom będzie mógł mi pomóc.	4
+Eu vi o vídeo.	5
+家は丘の上にある。	6
+Tom era in ritardo.	7
+איש לא מקשיב.	8
+Tom wurde blass.	9
+He gave up hope.	0
+Il a abandonné tout espoir.	1
+別說話，聽我說。	2
+Это личное.	3
+Może Tom do nas dołączy.	4
+Eu assisti o vídeo.	5
+母は私を誇りに思っている。	6
+Tom era perso.	7
+אף אחד לא סיפר לי.	8
+Tom meldete sich freiwillig.	9
+He got into bed.	0
+Il se mit au lit.	1
+京都的夏天很热。	2
+Она отравлена.	3
+Może jesteśmy w stanie to naprawić.	4
+Eu vi você na televisão.	5
+母は弁護士です。	6
+Tom era smarrito.	7
+איש לא יידע.	8
+Tom ging weg.	9
+He got the ball.	0
+Il a le ballon.	1
+小心不要着凉。	2
+Он отравлен.	3
+Może możemy pomóc Tom'owi.	4
+Vi você na televisão.	5
+私の母は弁護士です。	6
+Tom era il successivo.	7
+אף אחד לא מאושר.	8
+Tom ging schnell.	9
+He got very mad.	0
+Il s'est mis très en colère.	1
+感謝您的邀請。	2
+Оно отравлено.	3
+Mama jest starsza od taty.	4
+Eu te vi na TV.	5
+私の母は、音楽がとても好きです	6
+Tom era gentile.	7
+אין שם אף אחד.	8
+Tom ging nach Hause.	9
+He had ambition.	0
+Il avait de l'ambition.	1
+那座橋很漂亮。	2
+Это возможно.	3
+Mój francuski jest straszny.	4
+Te vi na TV.	5
+私のあだ名は「イッチ」です。	6
+Tom era carino.	7
+עכשיו אני יודע למה.	8
+Tom ging zu Fuß nach Hause.	9
+He had no money.	0
+Il n'avait pas d'argent.	1
+那個家具是我母親的。	2
+Это крысятина.	3
+Mój brat jest zdrowy.	4
+Marquei um gol.	5
+鼻が詰まった。	6
+Tom era pallido.	7
+עכשיו אני יודעת למה.	8
+Tom lief heim.	9
+He hardly works.	0
+Il travaille à peine.	1
+這起事件使他一舉成名。	2
+Он такой пыльный.	3
+Mój ojciec kocha pizzę.	4
+Estou vendo uma girafa.	5
+私の部屋はこの真下です。	6
+Tom era povero.	7
+עכשיו אני יודע מדוע.	8
+Tom ging vorbei.	9
+He hardly works.	0
+Il ne travaille guère.	1
+我就是这么学会英语的。	2
+Она такая пыльная.	3
+Mój dom jest na wzgórzu.	4
+Eu vejo uma girafa.	5
+私の姉は婚約した。	6
+Tom era ricco.	7
+כעת אני יודעת מדוע.	8
+Tom wollte Mary.	9
+He has a Toyota.	0
+Il a une Toyota.	1
+那本小說不適合兒童。	2
+Оно такое пыльное.	3
+Brakuje moich bagaży.	4
+Vejo um padrão.	5
+私の妹はよく泣く。	6
+Tom era scortese.	7
+עכשיו נזכרתי.	8
+Tom wollte mehr.	9
+He has a camera.	0
+Il a un appareil photo.	1
+那是场精彩的会议。	2
+Так пыльно.	3
+Moja mama jest prawniczką.	4
+Estou vendo a sua casa.	5
+おじはホテルを経営している。	6
+Tom era maleducato.	7
+עכשיו אני זוכר.	8
+Tom wollte das haben.	9
+He has a camera.	0
+Il dispose d'un appareil photo.	1
+塞纳河穿越了巴黎。	2
+Так тихо.	3
+Mój pseudonim to "Itch".	4
+Eu estou vendo a casa dele.	5
+全身筋肉痛だ。	6
+Tom era al sicuro.	7
+תזדיין בסבלנות עכשיו.	8
+Tom wollte das.	9
+He has a hat on.	0
+Il porte un chapeau.	1
+這班飛機準時起飛。	2
+Так спокойно.	3
+Mam ksywkę „Itch”.	4
+Vejo alguma coisa.	5
+誰も私達をコントロールできない。	6
+Tom è stato colpito.	7
+עכשיו תתחיל לזוז.	8
+Tom will Geld.	9
+He has gone mad.	0
+Il est devenu fou.	1
+军队强迫他辞职。	2
+Это так глупо.	3
+Moja prawa ręka jest zdrętwiała.	4
+Eu vejo alguma coisa.	5
+誰も私のことを分かってくれない。	6
+Tom era malato.	7
+עכשיו תתקדם.	8
+Tom war beleidigend.	9
+He has gone out.	0
+Il est sorti.	1
+理髮師為他理了頭髮。	2
+Это так нелепо.	3
+Mój pokój jest bardzo mały.	4
+Vejo a coroa.	5
+誰にも俺のことはわからない。	6
+Tom era ammalato.	7
+עכשיו לך קדימה.	8
+Tom war unnachgiebig.	9
+He has no money.	0
+Il n'a pas d'argent.	1
+最好的理发师是同性恋。	2
+Это так по-дурацки.	3
+Moja siostra ma fortepian.	4
+Estou vendo a coroa.	5
+余計なことはするな。	6
+Tom era caldo.	7
+נו תרגע.	8
+Tom wurde adoptiert.	9
+He has ten cows.	0
+Il possède dix vaches.	1
+這個箱子太重了無法攜帶。	2
+Это так странно.	3
+Moja siostra często płacze.	4
+Vejo a rainha.	5
+よけいなお世話だ。	6
+Tom uscì.	7
+עכשיו לזוז הלאה.	8
+Tom war alarmiert.	9
+He has two cars.	0
+Il a deux voitures.	1
+這個男孩跳入了水中。	2
+Это так неправильно.	3
+Moja walizka jest zepsuta.	4
+Estou vendo a rainha.	5
+余計なお世話だ。	6
+Tom è uscito.	7
+עכשיו עמוד מאחור.	8
+Tom wurde alarmiert.	9
+He has two cars.	0
+Il détient deux voitures.	1
+這座橋正被重新油漆。	2
+Это воровство.	3
+Moje majtki są mokre.	4
+Balancei a cabeça.	5
+お前には関係ないだろ。	6
+Tom fischiettava.	7
+עכשיו תישאר שם.	8
+Tom war unglaublich.	9

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <PackageId>LangDetector</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>
+      dotnet, languages, ml.net, marchine-learning, data, AI
+    </PackageTags>
+
+    <IsPackable>true</IsPackable>
+    
+    <PackageProjectUrl>https://github.com/oliver021/helppad-net</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.7.0" />
+  </ItemGroup>
+
+</Project>
